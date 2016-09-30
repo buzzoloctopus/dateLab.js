@@ -39,7 +39,7 @@ if ((month==0 && day >=20) || (month==1 && day <=18)){
   alert('Your Zodiac sign is '+ signs[6])
 }else if ((month== 7 && day >= 23) || (month==8 && day <=22)){
   alert('Your Zodiac sign is '+ signs[7])
-}else if ((month== 8 && day >= 23) || (month=9 && day <=22)){
+}else if ((month== 8 && day >= 23) || (month==9 && day <=22)){
   alert('Your Zodiac sign is '+ signs[8])
 }else if ((month== 9 && day >= 23) || (month==10 && day <=21)){
   alert('Your Zodiac sign is '+ signs[9])
